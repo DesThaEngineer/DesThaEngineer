@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**DesThaEngineer/DesThaEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DesThaEngineer/DesThaEngineer** is a ✨ _special_ ✨ repository because its `README.md` (https://bsky.app/profile/drkskndudenthongs.bsky.social) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
